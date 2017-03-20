@@ -4,13 +4,17 @@ and (min-width: 0px)
 and (max-width: 480px ) {
 
 	.para-one, .para-two {
-	width: 400px !important;
+		width: 400px !important;
 	}
 
 	.hide-this {
-	display: none;
+		display: none;
 	}
-	
+
+	.main-text {
+		font-size: 40px !important;
+	}
+
 }
 
 
